@@ -1,0 +1,9 @@
+# Ignorar o ambiente virtual do Python
+venv/
+
+# Ignorar o banco de dados local SQLite
+db.sqlite3
+
+# Outros arquivos que podem ser ignorados
+__pycache__/
+*.pyc
