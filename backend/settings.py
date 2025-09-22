@@ -127,7 +127,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Em vez de permitir tudo, especifique a origem do seu frontend
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000", # Para desenvolvimento local do frontend
-    "https://seu-frontend.onrender.com", # Adicione a URL do seu frontend no Render
+    "https://frontend-aj1u.onrender.com/", # Adicione a URL do seu frontend no Render
 ]
 # Se você realmente precisa permitir todos, use CORS_ALLOW_ALL_ORIGINS = True, mas não é recomendado.
 # --- FIM DA MODIFICAÇÃO DO CORS ---
